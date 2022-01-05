@@ -1,0 +1,11 @@
+{
+    "name": "signmark/hexlet-php",
+    "description": "Hexlet course",
+    "authors": [
+        {
+            "name": "Dmitry Zhdanov",
+            "email": "signmark@gmail.com"
+        }
+    ],
+    "require": {}
+}
